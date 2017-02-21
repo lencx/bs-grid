@@ -1,0 +1,13 @@
+{
+  "name": "bs-grid",
+  "version": "1.0.0",
+  "description": "bootstrap - Grid system",
+  "author": "Len <cxin1314@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-glob": "^1.0.8"
+  }
+}
