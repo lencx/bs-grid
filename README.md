@@ -1,16 +1,4 @@
-# bs-grid
+# UI
 
-> bootstrap grid system
-
-## Build Setup
-
-```bash
-# install dependencies
-# npm install
-yarn
-
-
-# build sass => css
-gulp
-
-```
+* bs-grid(bootstrap-grid)
+* s-ui(semantic-ui)
